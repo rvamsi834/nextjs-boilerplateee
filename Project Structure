@@ -1,0 +1,14 @@
+nextjs-boilerplate/
+├── components/
+│   └── CollaborativeEditor.js
+├── pages/
+│   ├── api/
+│   │   ├── chat.js
+│   │   └── edit.js
+│   └── index.js
+├── styles/
+│   └── globals.css
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+├── .env.local (not pushed to GitHub)
